@@ -1,6 +1,7 @@
 # Cell Line Classification Project
 
 ## Description
+
 This project aims to classify 9 regularly misidentified cell lines based on microscopy images. The goal is to distinguish between the following cell lines:
 
 PC-3
