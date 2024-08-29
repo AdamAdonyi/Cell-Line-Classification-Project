@@ -25,7 +25,7 @@ Each sample contains at least one cell and consists of 3 separate images stainin
 | Microtubules  | channel_2         | grey scale |
 | Endoplasmic reticulum| channel_3 | grey scale |
 
-
+After combining the 3 pictures per sample the following colorful result achieved:
 
 
 <img src="https://github.com/AdamAdonyi/Cell-Line-Classification-Project/blob/main/Picture1.png">
