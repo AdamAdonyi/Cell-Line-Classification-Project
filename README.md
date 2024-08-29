@@ -4,15 +4,17 @@
 ## Description
 This project aims to classify 9 regularly misidentified cell lines based on microscopy images. The reason of the misclassification is the similar origin.  The goal is to distinguish between the following cell lines:
 
-PC-3
-U-251 MG
-HeLa
-A549
-U-2 OS
-MCF7
-HEK 293
-CACO-2
-RT4
+| Cell Line | Origin                |
+|-----------|------------------------|
+| PC-3      | Prostate cancer        |
+| U-251 MG  | Glioblastoma           |
+| HeLa      | Cervical cancer        |
+| A549      | Lung carcinoma         |
+| U-2 OS    | Osteosarcoma           |
+| MCF7      | Breast cancer          |
+| HEK 293   | Embryonic kidney       |
+| CACO-2    | Colorectal adenocarcinoma |
+| RT4       | Bladder cancer         |
 
 Each sample contains at least one cell and consists of 3 separate images staining different parts of the same cell:
 
