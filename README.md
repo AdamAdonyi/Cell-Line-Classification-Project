@@ -20,6 +20,8 @@ Nucleus
 Microtubules
 Endoplasmic reticulum
 
+<img src="https://github.com/AdamAdonyi/Cell-Line-Classification-Project/blob/main/Picture1.png">
+
 ## Key Features
 
 Image preprocessing: Combining the separate images into one 3-channel image to treat samples like regular RGB images.
