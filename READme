@@ -19,3 +19,17 @@ Each sample contains at least one cell and consists of 3 separate images showing
 Nucleus
 Microtubules
 Endoplasmic reticulum
+
+
+# Single-Step Retrosynthesis Prediction
+
+<img src="https://github.com/AdamAdonyi/Single-Step-Retrosynthesis-Prediction/blob/main/retro_picture.png">
+
+
+## Description
+
+This project focuses on developing methods for single-step retrosynthesis prediction in chemical reactions. Given a dataset of chemical reactions in the format "[Reactants' SMILES]>>[Products' SMILES]", the goal is to train a machine learning model that can predict the reactants' SMILES starting from a new product SMILES.
+
+## Project Overview
+
+The project uses a [BART](https://huggingface.co/facebook/bart-large) (transformer encoder-decoder (seq2seq) model with a bidirectional (BERT-like) encoder and an autoregressive (GPT-like) decoder) model for the task of retrosynthesis prediction. Originally, it was release in [2019](https://arxiv.org/abs/1910.13461) and trained on English language. Here's a brief overview:
