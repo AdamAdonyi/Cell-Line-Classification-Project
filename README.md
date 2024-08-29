@@ -18,9 +18,15 @@ This project aims to classify 9 regularly misidentified tumor cell lines based o
 
 Each sample contains at least one cell and consists of 3 separate images staining different parts of the same cell:
 
-Nucleus
-Microtubules
-Endoplasmic reticulum
+
+| Compartment | Origin                |
+|-----------|------------------------|
+| Nucleus      | channel_1        |
+| Microtubules  | channel_2         |
+| Endoplasmic reticulum| channel_3 |
+
+
+
 
 <img src="https://github.com/AdamAdonyi/Cell-Line-Classification-Project/blob/main/Picture1.png">
 
