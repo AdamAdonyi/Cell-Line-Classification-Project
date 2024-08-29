@@ -1,1 +1,20 @@
-asd
+# Cell Line Classification Project
+
+## Description
+This project aims to classify 9 regularly misidentified cell lines based on microscopy images. The goal is to distinguish between the following cell lines:
+
+PC-3
+U-251 MG
+HeLa
+A549
+U-2 OS
+MCF7
+HEK 293
+CACO-2
+RT4
+
+Each sample contains at least one cell and consists of 3 separate images showing different parts of the same cell:
+
+Nucleus
+Microtubules
+Endoplasmic reticulum
