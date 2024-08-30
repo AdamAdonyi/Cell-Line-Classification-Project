@@ -2,7 +2,7 @@
 
 
 ## Description
-This project aims to classify 9 regularly misidentified tumor cell lines based on microscopy images. The reason of the misclassification is the similar origin - most of them endothelial cell-derived cancer cells.  The goal is to distinguish between the following cell lines:
+This project aims to classify 9 regularly misidentified tumor cell lines based on microscopy images. The reason of the misclassification is the similar origin - most of them endothelial cell-derived cancer cells.  The goal is to distinguish between the following cell lines
 
 | Cell Line | Origin                |
 |-----------|------------------------|
