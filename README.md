@@ -55,19 +55,4 @@ Our unique approach combines three grayscale images representing different cellu
 - Fine-tuned for multi-class cell line classification
 - Handles nuanced differences between similar cell lines
 
-## 🚀 Getting Started
 
-### Prerequisites
-- Python 3.8+
-- PyTorch
-- OpenCV
-- NumPy
-- Pandas
-- Scikit-learn
-
-### Installation
-```bash
-git clone https://github.com/YourUsername/Cell-Line-Classification-Project.git
-cd Cell-Line-Classification-Project
-pip install -r requirements.txt
-Model evaluation using balanced accuracy metric.
